@@ -22,6 +22,8 @@ Deixo aqui parte do meu conhecimento adquirido ao longo dos estudos, tanto na Un
 
 - ##### Conceitos e melhores práticas com bancos de dados PostgreSQL
 
+- **Server SQL -Criando suas primeiras consultas**
+
 **https://drive.google.com/drive/folders/1odOLGEGtzYxG_5nEredKcqL7hZQYWjKh?usp=sharing**
 
 
