@@ -1,0 +1,16 @@
+package banco2;
+
+public class Account {
+
+	private String name;
+	public Object getName;
+	
+	public String setName(String name){
+		this.name = name;
+		
+	final String getName;
+		return name;
+
+	}
+
+}

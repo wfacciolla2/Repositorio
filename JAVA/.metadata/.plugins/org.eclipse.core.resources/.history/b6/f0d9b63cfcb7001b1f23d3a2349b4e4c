@@ -1,0 +1,7 @@
+package first_project;
+
+public class Conta {
+	int numero;
+	String titula;
+	double saldo;
+}

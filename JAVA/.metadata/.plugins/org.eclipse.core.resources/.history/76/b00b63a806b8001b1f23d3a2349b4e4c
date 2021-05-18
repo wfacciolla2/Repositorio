@@ -1,0 +1,21 @@
+package first_project;
+
+public class TestaReferencias {
+
+	public static void main(String[] args) {
+		// Aprendendo a trabalhar com referencias
+		
+		Conta c1 = new Conta();
+		c1.titular = "João Felipe";
+		c1.saldo = 227;
+		
+		Conta c2 = new Conta();
+		c2.titular = "Wellington";
+		c2.saldo = 325;
+		
+		System.out.println(c1);
+		System.out.println(c2);
+		
+	}
+
+}

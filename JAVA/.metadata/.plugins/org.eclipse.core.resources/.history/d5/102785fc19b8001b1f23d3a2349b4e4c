@@ -1,0 +1,16 @@
+package banco2;
+
+public class Account {
+
+	private String name;
+	public Object getName;
+	
+	public void setName(String name){
+		this.name = name;
+	}
+	public Object[] getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
