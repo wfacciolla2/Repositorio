@@ -10,8 +10,8 @@ public class AccountTest {
 		Account account2 = new Account("Joao Felipe", -50.00);
 		
 		//exibe saldo inicial de cada objeto
-		System.out.println(account1.getName() + " R$" + account1.getBalance());
-		System.out.println(account2.getName() + " R$" + account2.getBalance());
+		System.out.println(account1.getName() + " " + account1.getBalance());
+		System.out.println(account2.getName() + " " + account2.getBalance());
 		
 		// cria um objeto Scanner para obter entrada a partir da janela de comando
 		Scanner input = new Scanner(System.in);

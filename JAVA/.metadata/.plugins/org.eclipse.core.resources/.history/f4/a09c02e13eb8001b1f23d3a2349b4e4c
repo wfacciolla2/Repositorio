@@ -1,0 +1,32 @@
+package banco2;
+import java.util.Scanner;
+
+
+public class AccountTest {
+
+	public static void main(String[] args) {
+		
+		Account account1 = new Account("Wellington Facciolla", 50.000);
+		Account account2 = new Account("Joao Felipe", -50.000);
+		
+		//exibe saldo inicial de cada objeto
+		System.out.println(account1.getName()+ " " + account1.getBalance());
+		System.out.println(account2.getBalance());
+		
+		// cria um objeto Scanner para obter entrada
+		Scanner input = new Scanner(System.in);
+		// cria um objeto Account e atribui a Myaccount
+		Account myAccount = new Account(null, 0);
+		//exive o valor inicial do nome (null)
+		System.out.println(myAccount.getName());
+		//Solicita e lê o nome
+		System.out.println("Please enter the name: ");
+		String theName = input.nextLine();
+		myAccount.setName(theName);
+		System.out.println();
+		//exibe o nome armazenado no objeto myAccount
+		System.out.println(myAccount.getName());
+		
+	}
+
+}
