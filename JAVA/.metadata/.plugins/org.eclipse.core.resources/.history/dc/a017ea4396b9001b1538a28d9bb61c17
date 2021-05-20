@@ -1,0 +1,5 @@
+package pacoteInterface;
+
+public interface AnimalVoador {
+
+}
