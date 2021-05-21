@@ -1,0 +1,12 @@
+{
+  "C:\\workspace\\Repositorio\\JAVA\\Birds\\src": {
+    "location": "C:\\workspace\\Repositorio\\JAVA\\Birds\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\Repositorio\\JAVA\\Birds\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_281\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_281\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_281\\lib\\rt.jar\u0027. Neither fingerprint \u0027856d19f15851ace19e45de1b8fc5db7d8d357c50\u0027 nor symbolic name \u0027jre\u0027 are known."
+  }
+}

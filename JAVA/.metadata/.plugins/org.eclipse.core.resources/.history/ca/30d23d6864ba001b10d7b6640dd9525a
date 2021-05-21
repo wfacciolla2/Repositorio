@@ -1,0 +1,12 @@
+package Escola;
+
+import java.sql.Date;
+
+public class Aluno extends Pessoa{
+
+	public Aluno(String nome, String CPF, Date nasc) {
+		super(nome, CPF, nasc);
+		// TODO Auto-generated constructor stub
+	}
+
+}

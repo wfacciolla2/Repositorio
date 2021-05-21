@@ -1,0 +1,19 @@
+package Carro;
+
+public class Corrida extends Carro{
+
+	public Corrida(int velocidadeInicial) {
+		super(velocidadeInicial);
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		public void acelera(){
+			setVelocidade(getVelocidade() + 5);
+		}
+
+		CarroCorrida x = new CarroCorrida(1);
+	}
+
+}

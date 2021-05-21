@@ -1,0 +1,12 @@
+package Polimorfismo;
+
+public class SuperClasse {
+
+	public static void main(String[] args) {
+
+	String imprimeMetodo{
+		// TODO Auto-generated method stub
+		System.out.println("Impresso na Super Classe");
+		}
+	}
+}
