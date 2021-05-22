@@ -3,4 +3,6 @@
 <fullyQualifiedTypeName name="pacoteInterface.AnimalNadador"/>
 <fullyQualifiedTypeName name="pacoteInterface.AnimalVoador"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="Escola.Aluno"/>
 </qualifiedTypeNameHistroy>

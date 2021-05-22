@@ -1,0 +1,10 @@
+package Comissao;
+
+public class BaseCommissionEmployee3 extends BaseCommissionEmployee {
+	private double baseSalary;
+	
+	public BaseCommissionEmployee3 (String first, String last, String ssn, double sales, double rate, double salary){
+		super(first, last, ssn, sales, rate);
+		setBaseSalary(salary);
+	}
+}
