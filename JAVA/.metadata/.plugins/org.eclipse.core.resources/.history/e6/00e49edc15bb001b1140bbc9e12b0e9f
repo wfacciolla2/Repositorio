@@ -3,21 +3,8 @@ package Escola;
 
 public class Professor extends Pessoa{
 
-	private int horasDeAula;
 	double salario;
 	String disciplina;
-	
-	public double getGasto(){
-		return this.getSalario() + this.horasDeAula * 10;
-	}
-	
-	@Override
-	public String getInfo(){
-		String informacaoBasica = super.getInfo();
-		String informacao = informacaoBasica + "horas de aulas: " + this.horasDeAula;
-		return informacao;
-		
-	}
 
 	public Professor(String nome, String CPF, int nasc) {
 		super(nome, CPF, nasc);

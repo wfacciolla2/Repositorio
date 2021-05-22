@@ -7,11 +7,6 @@ public class Pessoa {
 		public String nome;
 		public String CPF;
 		public int nasc;
-		public double salario;
-		
-		public String getInfo(){
-			return "nome: " + this.nome + " com salário: " + this.salario;
-		}
 		
 		public Pessoa(String nome, String CPF, int nasc){
 			this.nome = nome;

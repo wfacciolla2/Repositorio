@@ -9,18 +9,11 @@ public class Funcionario extends Pessoa{
 	Date admissao;
 	String cargo;
 	
-	public double getGastos(){
-		return this.salario;
-	}
-	
-	public String getInfo(){
-		return "nome: " + this.nome + " com salário: " + this.salario;
-	}
-	
 	public Funcionario(String nome, String CPF, int nasc) {
 		super(nome, CPF, nasc);
 		
 		
+		// TODO Auto-generated constructor stub
 	}
 
 	public double getSalario() {
