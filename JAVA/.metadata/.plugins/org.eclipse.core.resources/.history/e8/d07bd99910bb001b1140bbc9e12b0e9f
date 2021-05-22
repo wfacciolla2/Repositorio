@@ -1,0 +1,14 @@
+package first_project;
+
+public class Cliente {
+
+	private static String nome;
+
+	public static void main(String[] args) {
+		String sobrenome;
+		String cpf;
+
+	}
+
+
+}
