@@ -1,7 +1,11 @@
 package Caneta;
 
 public class Caneta {
-	public static String marca;
+	public class String {
+
+	}
+
+	public String marca;
 	public String cor;
 	public String tamanho;
 
