@@ -15,7 +15,8 @@ public class lista {
 			System.out.println(listElements);
 		
 			
-
+			Sort1 sort1 = new Sort1();
+			sort1.printElements();
 		}
 		
 
