@@ -1,0 +1,18 @@
+package ArrayList;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class lista {
+
+	public static void main(String[] args) {
+		List<String> myList = new ArrayList<String>();
+		myList.add("Wellington");
+		myList.add("Ester");
+		for(String listElements : myList){
+			System.out.println(listElements);
+		}
+
+	}
+
+}

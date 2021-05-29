@@ -25,7 +25,7 @@ org.eclipse.jdt.ui.text.code_templates_migrated=true
 org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 org.eclipse.jdt.ui.text.templates_migrated=true
-org.eclipse.jface.textfont=1|Comic Sans MS|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|66|Comic Sans MS;
+org.eclipse.jface.textfont=1|HoloLens MDL2 Assets|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|18|HoloLens MDL2 Assets;
 pf_coloring_argument=255,255,255
 pf_coloring_assignment=211,215,207
 pf_coloring_comment=136,138,133

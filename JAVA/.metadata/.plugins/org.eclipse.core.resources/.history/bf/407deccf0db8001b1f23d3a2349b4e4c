@@ -1,9 +1,0 @@
-package first_project;  
-class Teste {
-        public static void main(String[] args) {
-            Conta minhaConta = new Conta();
-
-            minhaConta.titular.nome = "Manoel";
-            // ...
-        }
-    }

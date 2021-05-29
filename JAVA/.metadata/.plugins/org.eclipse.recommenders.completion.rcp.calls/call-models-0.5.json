@@ -28,5 +28,10 @@
     "location": "C:\\workspace\\Repositorio\\JAVA\\Polimorfismo\\src",
     "status": "UNRESOLVED",
     "error": "No class path info available for \u0027C:\\workspace\\Repositorio\\JAVA\\Polimorfismo\\src\u0027. Skipped."
+  },
+  "C:\\workspace\\Repositorio\\JAVA\\ArrayList\\src": {
+    "location": "C:\\workspace\\Repositorio\\JAVA\\ArrayList\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\workspace\\Repositorio\\JAVA\\ArrayList\\src\u0027. Skipped."
   }
 }

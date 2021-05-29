@@ -1,0 +1,8 @@
+package ArrayList;
+
+public class MinhaLista<T>{
+	private Object[] elementos = new Object[0];
+	public T get(int indice){
+		return (T) elementos[indice];
+	}
+}

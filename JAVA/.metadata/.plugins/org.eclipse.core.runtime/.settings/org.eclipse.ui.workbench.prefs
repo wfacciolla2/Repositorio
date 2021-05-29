@@ -4,4 +4,4 @@ ENABLED_DECORATORS=org.eclipse.m2e.core.mavenVersionDecorator\:false,org.eclipse
 PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
 eclipse.preferences.version=1
 org.eclipse.jdt.ui.JavadocView.backgroundColor=0,0,0
-org.eclipse.jdt.ui.editors.textfont=1|HoloLens MDL2 Assets|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|18|HoloLens MDL2 Assets;
+org.eclipse.jdt.ui.editors.textfont=1|HoloLens MDL2 Assets|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|18|HoloLens MDL2 Assets;
