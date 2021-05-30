@@ -27,7 +27,7 @@ public class RawType extends Stack2 {
 		testPop("integerStack",integerStack);
 		
 		//metodo genérico, insere elementos na pilha
-		public static<T> void testPush(String name,Stack<T>stack,T[] elements){
+		public static <T> void testPush(String name,Stack<T>stack,T[] elements){
 			System.out.printf("Pushing elements onto", name);
 			for (T element : elements){
 				System.out.printf("%s", element);
