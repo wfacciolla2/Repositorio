@@ -1,7 +1,6 @@
 package ArrayList;
 
 import java.util.ArrayList;
-import java.util.List;
 
 
 public class Array {
@@ -33,9 +32,4 @@ public class Array {
         }
         System.out.printf("}");
     }
-
-	public static List<String> asList(String[] colors) {
-		// TODO Auto-generated method stub
-		return null;
-	}
 }

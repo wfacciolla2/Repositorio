@@ -1949,3 +1949,39 @@ Caused by: org.eclipse.swt.SWTException: Widget is disposed
 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:499)
 	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:119)
 	... 55 more
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2021-05-30 12:07:28.605
+!MESSAGE Internal Error
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:110)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: Java Model Exception: Java Model Status [Build path contains duplicate entry: 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7' for project 'ArrayList']
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:784)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3096)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3058)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3111)
+	at org.eclipse.jdt.internal.ui.text.correction.ReorgCorrectionsSubProcessor$ChangeToRequiredCompilerCompliance.updateClasspath(ReorgCorrectionsSubProcessor.java:529)
+	at org.eclipse.jdt.internal.ui.text.correction.ReorgCorrectionsSubProcessor$ChangeToRequiredCompilerCompliance.updateJRE(ReorgCorrectionsSubProcessor.java:467)
+	at org.eclipse.jdt.internal.ui.text.correction.ReorgCorrectionsSubProcessor$ChangeToRequiredCompilerCompliance.run(ReorgCorrectionsSubProcessor.java:430)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5332)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:106)
+	... 1 more
+Root exception:
+Java Model Exception: Java Model Status [Build path contains duplicate entry: 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7' for project 'ArrayList']
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:784)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3096)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3058)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3111)
+	at org.eclipse.jdt.internal.ui.text.correction.ReorgCorrectionsSubProcessor$ChangeToRequiredCompilerCompliance.updateClasspath(ReorgCorrectionsSubProcessor.java:529)
+	at org.eclipse.jdt.internal.ui.text.correction.ReorgCorrectionsSubProcessor$ChangeToRequiredCompilerCompliance.updateJRE(ReorgCorrectionsSubProcessor.java:467)
+	at org.eclipse.jdt.internal.ui.text.correction.ReorgCorrectionsSubProcessor$ChangeToRequiredCompilerCompliance.run(ReorgCorrectionsSubProcessor.java:430)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5332)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:106)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
