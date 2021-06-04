@@ -1,0 +1,21 @@
+package first_project;
+
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+
+public class EstruturaDeDados {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Set<String> nomes = new LinkedHashSet<>();
+		nomes.add("Ester");
+		nomes.add("Wellington");
+		nomes.add("João");
+		
+		System.out.println(nomes);
+		System.out.println(nomes.size());
+	}
+
+}

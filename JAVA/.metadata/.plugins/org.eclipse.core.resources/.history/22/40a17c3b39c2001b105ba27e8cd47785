@@ -1,0 +1,20 @@
+package first_project;
+
+import java.util.HashSet;
+import java.util.Set;
+
+
+public class EstruturaDeDados {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Set<String> nomes = new HashSet<>();
+		nomes.add("Ester");
+		nomes.add("Wellington");
+		nomes.add("João");
+		nomes.add("Wellington");
+		
+		System.out.println(nomes);
+	}
+
+}
