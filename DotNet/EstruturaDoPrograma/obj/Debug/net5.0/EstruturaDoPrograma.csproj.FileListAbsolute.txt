@@ -1,0 +1,16 @@
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\workspace\Repositorio\DotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
