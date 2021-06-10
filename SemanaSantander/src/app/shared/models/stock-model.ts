@@ -1,12 +1,11 @@
 class Stock {
-
-  id: number = 0;
-  name: string = "";
-  price: number = 0;
-  minimum: number = 0;
-  exclusiveMinimum: boolean = false;
-  variation: number = 0;
-  date: string = '';
+  id: number;
+  name: string;
+  price: number;
+  minimum: number;
+  exclusiveMinimum: boolean;
+  variation: number;
+  date: string;
 }
 
 export default Stock;
