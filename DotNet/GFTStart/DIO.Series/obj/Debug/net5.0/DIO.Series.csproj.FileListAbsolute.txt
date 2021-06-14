@@ -1,0 +1,5 @@
+C:\workspace\Repositorio\DotNet\GFTStart\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\workspace\Repositorio\DotNet\GFTStart\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repositorio\DotNet\GFTStart\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\workspace\Repositorio\DotNet\GFTStart\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\workspace\Repositorio\DotNet\GFTStart\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
