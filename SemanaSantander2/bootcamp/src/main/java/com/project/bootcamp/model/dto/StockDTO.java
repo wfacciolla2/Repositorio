@@ -49,4 +49,7 @@ public class StockDTO {
     public void setVariation(Double variation) {
         this.variation = variation;
     }
+
+    public void setId(long l) {
+    }
 }
