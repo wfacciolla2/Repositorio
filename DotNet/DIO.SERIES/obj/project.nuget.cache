@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gd/8btW24vkiEfKosRvDnT0oIEO4q8e8s4YAxxDb8QkRnu5znpL7Oqi4QReusKRcV0LhDpN0liSY02+v9ERInw==",
+  "dgSpecHash": "3WyFcI/BoU3Za2tUiX4R+4K7kHCzXVQIza69ip1iywzCSzTrzTqamxzC/Pb36AYL40/RBFzdUbcDpzWBCtXGJQ==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Repositorio\\DotNet\\DIO.SERIES\\DIO.SERIES.csproj",
+  "projectFilePath": "/home/eliezer/sandbox/dio/DIO.Series/DIO.Series.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
