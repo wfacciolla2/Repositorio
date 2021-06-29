@@ -21,6 +21,8 @@ namespace Testes
             mockSet = new Mock<DbSet<Categoria>>();
             mockContext = new Mock<Context>();
             categoria = new Categoria { Id = 1, Descricao = "Teste de Categoria" };
+            mockContext.Setup(m => m.Categorias).Returns(mockSet.Object);
+            mockContext.Setup(m => m.Categorias.FindAsync(1)).ReturnsAsync(categoria);
         }
 
         [Fact]

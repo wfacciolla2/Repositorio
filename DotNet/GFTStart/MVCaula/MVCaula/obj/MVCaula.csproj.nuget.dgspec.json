@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\welli\\source\\repos\\MVCaula\\MVCaula\\MVCaula.csproj": {}
+    "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\MVCaula\\MVCaula.csproj": {}
   },
   "projects": {
-    "C:\\Users\\welli\\source\\repos\\MVCaula\\MVCaula\\MVCaula.csproj": {
+    "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\MVCaula\\MVCaula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welli\\source\\repos\\MVCaula\\MVCaula\\MVCaula.csproj",
+        "projectUniqueName": "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\MVCaula\\MVCaula.csproj",
         "projectName": "MVCaula",
-        "projectPath": "C:\\Users\\welli\\source\\repos\\MVCaula\\MVCaula\\MVCaula.csproj",
+        "projectPath": "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\MVCaula\\MVCaula.csproj",
         "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welli\\source\\repos\\MVCaula\\MVCaula\\obj\\",
+        "outputPath": "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\MVCaula\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",

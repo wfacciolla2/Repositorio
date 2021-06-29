@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GIlMg/L2Mc/NJAeQa0srdObUYPS3LR2uoLtkaJZJcXzHepK1htWAJkxyJP8DUrf9rk6818TeVr2MgYE2JmotUA==",
+  "dgSpecHash": "g03JQGDZjTyivBc0HmX0yUizGvWTycdbldqoX0iESuyeKoQNjdtFJDsE+BF16FDW+yMZZJ///FM5C42E6Z4Szw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\welli\\source\\repos\\MVCaula\\APIaula\\APIaula.csproj",
+  "projectFilePath": "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\APIaula\\APIaula.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\welli\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\welli\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

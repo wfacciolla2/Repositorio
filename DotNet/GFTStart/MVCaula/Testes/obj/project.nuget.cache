@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5X4wS0kwNoDXKU+UxXXBghNcxet+Wc6y0AzjF/W0qcwZJO9FvwzvQpBA+msyrjIv+SdHqgnULxxPmBBu10/Ljg==",
+  "dgSpecHash": "rEvm4Br6kOnbT7/g5+AZ+jJZ80AW7EiPmi8pBereTh6ncMS96nLfyj0xnfj4T4+inX3v2gio9VIBnIZbLueKPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\welli\\source\\repos\\MVCaula\\Testes\\Testes.csproj",
+  "projectFilePath": "C:\\workspace\\Repositorio\\DotNet\\GFTStart\\MVCaula\\Testes\\Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\welli\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\welli\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
