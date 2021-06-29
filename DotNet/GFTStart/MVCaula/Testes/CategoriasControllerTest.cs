@@ -29,9 +29,11 @@ namespace Testes
         public async Task GetCategoria()
         {
             var service = new CategoriasController(mockContext.Object);
+            
             await service.GetCategoria(1);
 
             mockSet.Verify(m => m.FindAsync(1), Times.Once());
+
         }
     }
 }

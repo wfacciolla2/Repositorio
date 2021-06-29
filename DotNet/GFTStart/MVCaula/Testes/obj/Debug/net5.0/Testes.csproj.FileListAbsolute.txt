@@ -11,7 +11,6 @@ C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\MVCaula
 C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\MVCaula.exe
 C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\appsettings.Development.json
 C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\appsettings.json
-C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\APIaula.StaticWebAssets.xml
 C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\APIaula.exe
 C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\testhost.exe
 C:\workspace\Repositorio\DotNet\GFTStart\MVCaula\Testes\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
