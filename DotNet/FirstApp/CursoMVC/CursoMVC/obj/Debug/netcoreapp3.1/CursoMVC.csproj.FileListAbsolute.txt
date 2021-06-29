@@ -49,7 +49,6 @@ C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csprojAssemblyReference.cache
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfoInputs.cache
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.AssemblyInfo.cs
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csproj.CoreCompileInputs.cache
@@ -91,3 +90,4 @@ C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\workspace\Repositorio\DotNet\FirstApp\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.1\CursoMVC.csproj.AssemblyReference.cache
