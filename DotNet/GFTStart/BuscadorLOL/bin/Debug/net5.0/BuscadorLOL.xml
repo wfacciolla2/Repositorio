@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BuscadorLOL</name>
+    </assembly>
+    <members>
+        <member name="M:BuscadorLOL.Controllers.v1.CampeoesController.Obter(System.Int32,System.Int32)">
+            <summary>
+            Buscar todos os Campeões de forma paginada
+            </summary>
+            <remarks>
+            Não é possível retornar os jogos sem paginação
+            </remarks>
+            <param name="pagina">Indica qual página está sendo consultada. Mínimo 1</param>
+            <param name="quantidade">Indica a quantidade de reistros por página. Mínimo 1 e máximo 50</param>
+            <response code="200">Retorna a lista de Campeões</response>
+            <response code="204">Caso não haja Campões</response> 
+        </member>
+        <member name="M:BuscadorLOL.Controllers.v1.CampeoesController.Obter(System.Guid)">
+            <summary>
+            Buscar um Campeão pelo seu Id
+            </summary>
+            <param name="idCampeao">Id do Campeão buscado</param>
+            <response code="200">Retorna o Campeão filtrado</response>
+            <response code="204">Caso não haja Campeão com este id</response> 
+        </member>
+        <member name="M:BuscadorLOL.Controllers.v1.CampeoesController.InserirCampeao(BuscadorLOL.InputModel.CampeaoInputModel)">
+            <summary>
+            Inserir um Campeão no catálogo
+            </summary>
+            <param name="jogoInputModel">Dados do Campeão a ser inserido</param>
+            <response code="200">Cao o Campeão seja inserido com sucesso</response>
+            <response code="422">Caso já exista um Campeão com mesmo nome para a mesma Função</response>   
+        </member>
+        <member name="M:BuscadorLOL.Controllers.v1.CampeoesController.AtualizarCampeao(System.Guid,BuscadorLOL.InputModel.CampeaoInputModel)">
+            <summary>
+            Atualizar um Campeão no catálogo
+            </summary>
+            /// <param name="idCampeao">Id do Campeão a ser atualizado</param>
+            <param name="campeaoInputModel">Novos dados para atualizar o Campeão indicado</param>
+            <response code="200">Cao o Campeão seja atualizado com sucesso</response>
+            <response code="404">Caso não exista um Campeão com este Id</response>  
+        </member>
+        <member name="M:BuscadorLOL.Controllers.v1.CampeoesController.AtualizarCampeao(System.Guid,System.Single)">
+            <summary>
+            Atualizar o preço de um Campeão
+            </summary>
+            /// <param name="idCampeao">Id do Campeão a ser atualizado</param>
+            <param name="preco">Novo preço do Campeão</param>
+            <response code="200">Cao o preço seja atualizado com sucesso</response>
+            <response code="404">Caso não exista um Campeão com este Id</response>   
+        </member>
+        <member name="M:BuscadorLOL.Controllers.v1.CampeoesController.apagarCampeao(System.Guid)">
+            <summary>
+            Excluir um Campeão
+            </summary>
+            /// <param name="idCampeao">Id do Campeão a ser excluído</param>
+            <response code="200">Cao o preço seja atualizado com sucesso</response>
+            <response code="404">Caso não exista um Campeão com este Id</response>   
+        </member>
+    </members>
+</doc>
