@@ -1,0 +1,16 @@
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\Mesada.exe
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\Mesada.deps.json
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\Mesada.runtimeconfig.json
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\Mesada.runtimeconfig.dev.json
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\Mesada.dll
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\ref\Mesada.dll
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\bin\Debug\net5.0\Mesada.pdb
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.csproj.AssemblyReference.cache
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.AssemblyInfoInputs.cache
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.AssemblyInfo.cs
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.csproj.CoreCompileInputs.cache
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.dll
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\ref\Mesada.dll
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.pdb
+E:\Repositorio\Repositorio\GFT Start\Mesada\Mesada\obj\Debug\net5.0\Mesada.genruntimeconfig.cache
