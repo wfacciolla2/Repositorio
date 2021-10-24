@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obb/3rFMF6AOrg2XLUZcPXEvSw4Li8XN+Uyjj4E8HYVnBqAtrMVP5riQG0/oSaIgGtt37w5CrfBd5woFkFP4pQ==",
+  "dgSpecHash": "58cWQs/dt4fps08k7QEHKcSw0flpU2gdOgpTOLDqWINaj3vh5tFeUDC5NIWkR009hNI+vG7OfUUCEioMjqWqgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facciolla\\Documents\\DotNet\\GFTStart\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
+  "projectFilePath": "E:\\Repositorio\\Repositorio\\DotNet\\GFTStart\\ApiCatalogoJogos\\ApiCatalogoJogos\\ApiCatalogoJogos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facciolla\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.7\\microsoft.aspnetcore.mvc.razor.extensions.5.0.7.nupkg.sha512",
     "C:\\Users\\facciolla\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.7\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.7.nupkg.sha512",
