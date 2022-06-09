@@ -1,0 +1,12 @@
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\bin\Debug\net5.0\OficinasUsuario.Shared.deps.json
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\bin\Debug\net5.0\OficinasUsuario.Shared.dll
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\bin\Debug\net5.0\ref\OficinasUsuario.Shared.dll
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\bin\Debug\net5.0\OficinasUsuario.Shared.pdb
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.csproj.AssemblyReference.cache
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.AssemblyInfoInputs.cache
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.AssemblyInfo.cs
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.csproj.CoreCompileInputs.cache
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.dll
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\ref\OficinasUsuario.Shared.dll
+E:\Repositorio\Repositorio\UniveSP\OficinasUsuario\OficinasUsuario\Shared\obj\Debug\net5.0\OficinasUsuario.Shared.pdb

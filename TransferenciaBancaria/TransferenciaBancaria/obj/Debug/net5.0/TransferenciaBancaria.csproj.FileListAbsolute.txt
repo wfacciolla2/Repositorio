@@ -1,0 +1,15 @@
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.exe
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.deps.json
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.json
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.dev.json
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.dll
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\ref\TransferenciaBancaria.dll
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.pdb
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfoInputs.cache
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfo.cs
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.dll
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\ref\TransferenciaBancaria.dll
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.pdb
+E:\Repositorio\Repositorio\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.genruntimeconfig.cache
