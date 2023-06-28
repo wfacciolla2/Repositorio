@@ -27,7 +27,7 @@ def deposito():
     if(valor > 0):
         saldo += valor
         data_hora_atual = datetime.now()
-        transacoes.append(f"Deposito: {data_hora_atual} Valor: +{valor}")
+        transacoes.append(f"Deposito: {data_hora_atual} Valor: + R${valor}")
         print(f"Deposito realizado. Saldo atual: {saldo}\n")
     else:
         print("Erro no processamento\n")
@@ -38,10 +38,15 @@ def saque():
     if valor > saldo:
         print("Saldo insuficiente\n")
     else:
-        saldo -= valor
-        data_hora_atual = datetime.now()
-        transacoes.append(f"Saque: {data_hora_atual} Valor: -{valor}")
-        print(f"Saque realizado. Saldo atual: {saldo}\n")
+        if(num_saques > 3):
+            print("limite de saques atingido")
+        else:
+            saldo -= valor
+            data_hora_atual = datetime.now()
+            transacoes.append(f"Saque: {data_hora_atual} Valor: - R${valor}")
+            global num_saques
+            num_saques =+ 1
+            print(f"Saque realizado. Saldo atual: {saldo}\n")
 
 def extrato():
     global saldo
